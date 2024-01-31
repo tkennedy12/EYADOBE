@@ -20,9 +20,7 @@
   ]
 }
 {
-  // ...
   "plugins": [
-    // ...
     {
       "id": "generate-variations",
       "title": "Generate Variations",
@@ -31,6 +29,5 @@
       "environments": ["preview","live", "edit"],
       "includePaths": ["**.docx**"]
     }
-    // ...
   ]
 }
