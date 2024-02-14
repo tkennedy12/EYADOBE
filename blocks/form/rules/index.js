@@ -38,3 +38,4 @@ export async function applyRuleEngine(form, formTag) {
     console.log('unable to apply rules ', e);
   }
 }
+import "@adobe/universal-editor-cors";
