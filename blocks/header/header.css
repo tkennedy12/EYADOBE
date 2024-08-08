@@ -8,7 +8,7 @@ header nav {
   align-items: center;
   position: fixed;
   z-index: 2;
-  background-color: var(--background-color);
+  background-color: black;
   width: 100vw;
   height: var(--nav-height);
   box-sizing: border-box;
@@ -20,7 +20,7 @@ header nav {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: white;
 }
 
 header nav[aria-expanded='true'] {
