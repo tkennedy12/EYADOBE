@@ -447,3 +447,18 @@ main .section[data-section-status='initialized'] {
 .cc-btn.cc-save {
   padding: 13px 29px;
 }
+.csc{
+
+	width: 100%;
+	text-align: center;
+}
+
+.csc-icons{
+	text-align: center;
+}
+.csc-icons picture{
+    max-height: 240px;
+    max-width: 74px;
+    margin: 0 auto;
+    display: block;
+    height: auto;
