@@ -29,7 +29,7 @@ main .embedvideo-learningmanager div{
 main .embedvideo-fullscreen iframe{
 	max-width: 33%;
 	left: 6%; 
-	width: 100%; 
+	width: 33%; 
 	padding:0;
 	min-height: 1300px; 
 	position: relative;
@@ -40,7 +40,7 @@ main .embedvideo > div > ul {
     margin: 0;
     padding: 0;
     display: grid !important; 
-	width: 100%;
+	width: 33%%;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 	align-items: end;
     grid-gap: 60px;
@@ -65,7 +65,7 @@ main .embedvideo-video{
 }
 
 .embedvideo-wrapper{
-	max-width: 100% !important;
+	max-width: 33% !important;
 }
 #global-navigation{
 	visibility:hidden;
@@ -82,7 +82,7 @@ main .embedvideo.embedvideo-twitter .twitter-tweet-rendered {
 }
 
 main .embedvideo .embedvideo-placeholder {
-  width: 100%;
+  width: 33%;
   aspect-ratio: 16 / 9;
   position: relative;
 }
