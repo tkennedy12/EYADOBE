@@ -59,6 +59,11 @@ main .embed-workfront{
 /*	min-height: 1000px;*/
 }
 
+main .embed-video{
+	max-width: 100%;
+/*	min-height: 1000px;*/
+}
+
 .embed-wrapper{
 	max-width: 100% !important;
 }
