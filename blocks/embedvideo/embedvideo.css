@@ -27,7 +27,7 @@ main .embedvideo-learningmanager div{
 }
 
 main .embedvideo-fullscreen iframe{
-	max-width: 80%;
+	max-width: 33%;
 	left: 6%; 
 	width: 100%; 
 	padding:0;
