@@ -131,6 +131,17 @@ const embedWF = (url, autoplay, fullscreen) => {
 	return embedHTML;
 };
 
+const embedvideo = (url, autoplay, fullscreen) => {
+	 
+	  const height = fullscreen ? "1300px" : "600px";
+	  const embedHTML = `<div>
+      <iframe src="${url}" scrolling="no" style="height:100%;width:100%;min-height:${height}">
+      </iframe>
+      </div>`;
+	
+	return embedHTML;
+};
+
 
 const embedALM = (url, autoplay) => {
 
