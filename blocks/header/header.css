@@ -115,7 +115,6 @@ header nav .nav-sections {
   display: none;
   background-color: var(--overlay-color);
   flex: 1 1 auto;
-  text-color: white; 
 }
 
 header nav .nav-sections ul  {
